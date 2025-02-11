@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mahelika! 👋
 
-<!--
-**mahelika/mahelika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Full-stack dev in the making, diving into blockchain, AI, and low-level programming. If there’s code, you’ll probably find me tinkering with it. Always learning, always building—welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: MERN, Rust, a little bit of Generative AI, and Agentic AI.
+- 👯 Looking to collaborate on: Open-source projects, especially those related to Rust, MERN stack, or AI.
+- 😄 Pronouns: She/Her
+- ⚡ My superpower? Turning ‘It works on my machine’ into a universal truth.
+
+## GitHub Stats
+
+![Mahelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahelika&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahelika&layout=compact&theme=radical)
+
+
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/mahelika)
+- [Twitter](https://x.com/mahelikaaX)
+<!-- - [Personal Website](#) -->
+
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any project. :)
