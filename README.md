@@ -11,7 +11,9 @@ Full-stack dev in the making, diving into blockchain, AI, and low-level programm
 
 ## GitHub Stats
 
-![Mahelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahelika&show_icons=true&theme=radical)
+![Mahelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahelika&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mahelika&theme=radical&hide_border=false)
 
 ## Top Languages
 
