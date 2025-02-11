@@ -1,4 +1,4 @@
-# Hi there, I'm Mahelika! 👩‍💻
+# Hi, I'm Mahelika! 👩‍💻
 
 ## About Me
 
