@@ -23,7 +23,7 @@ Full-stack dev in the making, diving into blockchain, AI, and low-level programm
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/mahelika)
-- [Twitter](https://x.com/mahelikaaX)
+- [𝕏](https://x.com/mahelikaaX)
 <!-- - [Personal Website](#) -->
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any project. :)
