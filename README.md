@@ -20,10 +20,5 @@ Full-stack dev in the making, diving into blockchain, AI, and low-level programm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahelika&layout=compact&theme=radical)
 
 
-## Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/mahelika)
-- [𝕏](https://x.com/mahelikaaX)
-<!-- - [Personal Website](#) -->
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any project. :)
