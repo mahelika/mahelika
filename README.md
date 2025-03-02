@@ -17,7 +17,7 @@ Full-stack dev in the making, diving into blockchain, AI, and low-level programm
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahelika&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahelika&layout=compact&theme=radical) -->
 
 
 
