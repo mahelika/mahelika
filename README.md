@@ -7,7 +7,7 @@ Full-stack dev in the making, diving into blockchain, AI, and low-level programm
 - 📚 Currently learning: MERN, Rust, a little bit of Generative AI and Agentic AI.
 - 🤝 Looking to collaborate on: Open-source projects, especially those related to Rust, MERN stack, or AI.
 - 🎀 Pronouns: She/Her
-- 🪄 Secret talent: Spotting missing semicolons faster than the compiler—except when it actually matters.
+- 🪄 Secret talent: Spotting missing semicolons faster than the compiler, except when it actually matters.
 
 ## GitHub Stats
 
