@@ -5,7 +5,7 @@
 <summary>$ info</summary>
 -->
 
-```
+```rust
 hi, i'm mahelika! 👩‍💻
 -----------------------------
 Status     : exploring creative coding x web3
